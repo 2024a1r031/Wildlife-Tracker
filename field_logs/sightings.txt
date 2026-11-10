@@ -1,0 +1,4 @@
+Z2|Snow Leopard|2|650
+Z1|Langur|5|300
+Z3|Snow Leopard|2|650
+Z1|LangurZ1|Snow Leopard|2|650
